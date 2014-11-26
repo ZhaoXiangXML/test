@@ -43,7 +43,7 @@ Device | Customize base on [cordova-plugin-device](https://github.com/apache/cor
 Network Infomation | [cordova-plugin-network-information](https://github.com/apache/cordova-plugin-network-information) |
 AES Encryption | Create our own |
 Remote Logging | Create our own |
-Geolocation | Customize based on [cordova-plugin-geolocation](https://github.com/apache/cordova-plugin-geolocation) | Use Baidu [Android Loc SDK] (http://developer.baidu.com/map/index.php?title=android-locsdk) for Android
+Geolocation | Customize based on [cordova-plugin-geolocation](https://github.com/apache/cordova-plugin-geolocation) | Use Baidu [Android Loc SDK](http://developer.baidu.com/map/index.php?title=android-locsdk) for Android
 Map | Baidu Map [JavaScript API Extreme](http://developer.baidu.com/map/index.php?title=jsextreme) | Baidu Map does not provide Windows Phone Native SDK, so the JS version has to be used. Not included in this project.
 Crash Reporting | [Crittercism](http://docs.crittercism.com/development_platforms/phonegap.html) | Need to customize for Windows Phone
 
