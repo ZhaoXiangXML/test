@@ -1,6 +1,6 @@
 # Cross Platform Mobile App R&D Technical Specification and Plan
 
-Author: Shawn Zhao
+Shawn Zhao
 
 ## 1. Brief of Requirement
 
@@ -67,7 +67,7 @@ Plan of first half of Jan 2015:
  * Customize Geolocation, use Baidu's SDK for Android (4 hours)
  * Create AES encryption plugin and encrypt upload transmision (4 hours)
  * Create remote logging plugin (4 hours)
- * Setup develop environment for Windows Phone 9(4 hours)
+ * Setup develop environment for Windows Phone 9 (4 hours)
  * Create or customize all above plugins for Windows Phone 8 (15 hours)
  * test and debug on Windows Phone (10 hours)
  
