@@ -2,6 +2,8 @@
 
 Shawn Zhao
 
+Nov 26, 2014
+
 ## 1. Brief of Requirement
 
 The target of this R&D project is to build Cross Platform Mobile based on [Apache Cordova](http://cordova.apache.org/).
