@@ -27,7 +27,9 @@ The project is going to be developed and tested on the following platforms:
 
 The browser version is to make develop UI and business logic easier, it's not intended to be published to the end users.
  
-Most part of the Call Management Hershey Wedding code can be reused, except where to access database or camera
+The apps will be distributed as download packages for each platform. Automatic update of HTML5 code should be implemented as a later process of this project.
+ 
+Most part of the Call Management Hershey Wedding code can be reused, except where to access database or camera.
 
 ## 2. Project Architecture
 
@@ -71,7 +73,8 @@ Plan of first half of Jan 2015:
  * Create remote logging plugin (4 hours)
  * Setup develop environment for Windows Phone 9 (4 hours)
  * Create or customize all above plugins for Windows Phone 8 (15 hours)
- * test and debug on Windows Phone (10 hours)
+ * Test and debug on Windows Phone (10 hours)
+ * Create download site for Window Phone (5 hours)
  
 By the mid of Jan 2015, we should have all functions of our existing native apps but map.
 
@@ -81,7 +84,8 @@ In the mean time (from early Dec 2014), I should also cooperate with Zohaib for 
  * Communicate with Zohaib for the design and static HTML page implement process (8 hours)
  * Integrate Zohaib's static HTML page with logic code (8 hours, cooperate with Sugar)
  * Test and debug on all three platforms (8 hours)
+ * Automatic update of HTML5 code on all three platforms (5 hours)
 
-This project takes 110 hours of my time in total.
+This project takes 120 hours of my time in total.
 
 By the end of Jan 2015, we should have all the new UI integrated. And we should have enough experience and code base to do business project.
