@@ -43,7 +43,7 @@ Device | Customize base on [cordova-plugin-device](https://github.com/apache/cor
 Network Infomation | [cordova-plugin-network-information](https://github.com/apache/cordova-plugin-network-information) |
 AES Encryption | Create our own |
 Remote Logging | Create our own |
-Geolocation | Customize based on [cordova-plugin-geolocation](https://github.com/apache/cordova-plugin-geolocation) | Use Baidu's [Android Loc SDK] (http://developer.baidu.com/map/index.php?title=android-locsdk) for Android
+Geolocation | Customize based on [cordova-plugin-geolocation](https://github.com/apache/cordova-plugin-geolocation) | Use Baidu [Android Loc SDK] (http://developer.baidu.com/map/index.php?title=android-locsdk) for Android
 Map | Baidu Map [JavaScript API Extreme](http://developer.baidu.com/map/index.php?title=jsextreme) | Baidu Map does not provide Windows Phone Native SDK, so the JS version has to be used. Not included in this project.
 Crash Reporting | [Crittercism](http://docs.crittercism.com/development_platforms/phonegap.html) | Need to customize for Windows Phone
 
@@ -79,5 +79,7 @@ In the mean time (from early Dec 2014), I should also cooperate with Zohaib for 
  * Comunicate with Zohaib for the design and static HTML page implement process (8 hours)
  * Integrate Zohaib's static HTML page with logic code (8 hours, cooperate with Sugar)
  * Test and debug on all three platforms (8 hours)
- 
+
+This project takes 110 hours of my time in total.
+
 By the end of Jan 2015, we should have all the new UI integarted. And we should have enough experience and code base to do business project.
