@@ -64,18 +64,17 @@ Function icons to design include:
 12. Questionnaire
 13. Promotions
 14. Snapshot
-15. Feedback
-16. Comment
-17. Count Stock
-18. Fill Order
-19. Inspect Layout
-20. Inspect Poster
-21. Register Trainee
-22. Stores On Map
-23. Start Training
-24. (For a Supervisor to) Review Team Performance
-25. Update Store Information (Name, Address, etc.)
-26. View Store Sales
+15. Comment
+16. Count Stock
+17. Fill Order
+18. Inspect Layout
+19. Inspect Poster
+20. Register Trainee
+21. Stores On Map
+22. Start Training
+23. (For a Supervisor to) Review Team Performance
+24. Update Store Information (Name, Address, etc.)
+25. View Store Sales
 
 ## 3. Screens Design Specification
 
@@ -237,6 +236,6 @@ All pages should be looking the same on different browsers on the target platfor
 
 ## 5. Summary
 
-There are 6 app icons and 26 function icons to design, 1 splash screen and 16 function screens to design and implement.
+There are 6 app icons and 25 function icons to design, 1 splash screen and 16 function screens to design and implement.
 
 The price and timeline should be agreed by both sides before start.
