@@ -14,7 +14,7 @@ Now we are looking for changes on the UI and UX, and we'd like to cooperate with
 
 The V2 of Market Research will be implemented with [Apache Cordova](http://cordova.apache.org/) for iOS 7+, Android 4.0+ and Windows Phone 8+.
 
-The new design should be flat, to match the experience of the new systems. We prefer light and cool colors, and colors match the Field Power logo.
+The new design should not be just simply converted existing UI to flat. The new creation on the user interface is expected, as well as the alignement of Field Power logo.
 
 The new design should be adopted to large screen phones, including Samsung Note 3, Samsung Note 3 Lite, iPhone 5/6/6+, and other smaller yet popular phones. The new design should use the [responsive web design](http://en.wikipedia.org/wiki/Responsive_web_design) approach so it can fit any phone or tablet resolution. Like what Apple did in iPhone 6/6+ Mail app, we intend to display more data on large screens, however hide certain details on small screens. Alternative layout should be applied for tablets (e.g. iPad) and large phone in landscape mode (e.g. iPhone 6+), like the iOS Mail app.
 
