@@ -10,7 +10,7 @@ The target of this R&D project is to build Cross Platform Mobile based on [Apach
 
 Apache Cordova enables build app with HTML5 for UI and business logic, and access native functions via plugins written by native languages (Java, Objective-C, C#, etc.).
 
-The goal is to create iOS, Android and Windows Phone 8 apps with the same UI and business logic code base, and create native plugins that future projects can reuse. When the project goes mature, future projects should only write UI and business logic code once for all platforms, without worry with native languages or device differences.
+The goal is to create iOS, Android and Windows Phone 8 apps with the same UI and business logic code base, and create native plugins that future projects can reuse. When the project goes mature, future projects should only write UI and business logic code once for all platforms, without worry about native languages or device differences.
 
 The project contains three major tasks:
 
@@ -26,6 +26,8 @@ The project is going to be developed and tested on the following platforms:
  * browser (Google Chrome Desktop)
 
 The browser version is to make develop UI and business logic easier, it's not intended to be published to the end users.
+
+On Android, [Crosswalk](https://crosswalk-project.org/) will be used for batter HTML5 capability.
  
 The apps will be distributed as download packages for each platform. Automatic update of HTML5 code should be implemented as a later process of this project.
  
