@@ -10,7 +10,7 @@ The target of this R&D project is to build Cross Platform Mobile based on [Apach
 
 Apache Cordova enables build app with HTML5 for UI and business logic, and access native functions via plugins written by native languages (Java, Objective-C, C#, etc.).
 
-The goal is to create iOS, Android ans Windows Phone 8 apps with the same UI and business logic code base, and create native plugins that future projects can reuse. When the project goes mature, future projects should only write UI and business logic code once for all platforms, without worry with native languages or device differences.
+The goal is to create iOS, Android and Windows Phone 8 apps with the same UI and business logic code base, and create native plugins that future projects can reuse. When the project goes mature, future projects should only write UI and business logic code once for all platforms, without worry with native languages or device differences.
 
 The project contains three major tasks:
 
@@ -71,7 +71,7 @@ Plan of first half of Jan 2015:
  * Customize Geolocation, use Baidu's SDK for Android (4 hours)
  * Create AES encryption plugin and encrypt upload transmission (4 hours)
  * Create remote logging plugin (4 hours)
- * Setup develop environment for Windows Phone 9 (4 hours)
+ * Setup develop environment for Windows Phone 8 (4 hours)
  * Create or customize all above plugins for Windows Phone 8 (15 hours)
  * Test and debug on Windows Phone (10 hours)
  * Create download site for Window Phone (5 hours)
