@@ -12,13 +12,11 @@ Now we are looking for changes on the UI and UX, and we'd like to cooperate with
 
 ### 1.1 Brief of Requirement
 
-The V2 of Market Research will be implemented with [Apache Cordova](http://cordova.apache.org/) for iOS 7+, Android 4.0+ and Windows Phone 8+.
+The V2 of Market Research will be implemented with [Apache Cordova](http://cordova.apache.org/) for iOS 7+, Android 4.0+ and Windows Phone 8+. [AngularJS](https://angularjs.org/) and [Bootstrap](http://getbootstrap.com/) will be used, any design should be able to implement by AugularJS and Bootstrap without any problem.
 
 The new design should not be just simply converted existing UI to flat. The new creation on the user interface is expected, as well as the alignement of Field Power logo.
 
 The new design should be adopted to large screen phones, including Samsung Note 3, Samsung Note 3 Lite, iPhone 5/6/6+, and other smaller yet popular phones. The new design should use the [responsive web design](http://en.wikipedia.org/wiki/Responsive_web_design) approach so it can fit any phone or tablet resolution. Like what Apple did in iPhone 6/6+ Mail app, we intend to display more data on large screens, however hide certain details on small screens. Alternative layout should be applied for tablets (e.g. iPad) and large phone in landscape mode (e.g. iPhone 6+), like the iOS Mail app.
-
-The new design should not just simply convert existing UI to flat, creation on the user interface and user experience is important.
 
 The designer's tasks includes:
 
@@ -26,8 +24,6 @@ The designer's tasks includes:
 2. Design function icons
 3. Design splash screens
 4. Design function screens
-5. Implement HTML templates for the screens
-6. Test HTML templates, make sure everything works on all devices and resolutions
 
 ## 2. Icons Design Specification
 
@@ -222,19 +218,7 @@ List of all customers. Similar to store list but with logo for each customer. Th
 
 A placeholder image should be used of customer logo not available.
 
-## 4. Implementation specification
-
-The designer should implement static HTML templates and necessary trigger functions for transmissions/animations.
-
-The implementation should be responsive to fit all phone/tablet resolutions.
-
-The app should be implemented with [AngularJS](https://angularjs.org/) and [Bootstrap](http://getbootstrap.com/).
-
-JQuery should not be used. Generate HTML in JaveScript or DOM Manipulation should not be used.
-
-All pages should be looking the same on different browsers on the target platforms.
-
-## 5. Summary
+## 4. Summary
 
 There are 6 app icons and 25 function icons to design, 1 splash screen and 16 function screens to design and implement.
 
