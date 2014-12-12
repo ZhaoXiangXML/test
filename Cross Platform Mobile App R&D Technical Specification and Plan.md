@@ -2,7 +2,7 @@
 
 Shawn Zhao
 
-Nov 26, 2014
+Dec 12th, 2014
 
 ## 1. Brief of Requirement
 
@@ -62,21 +62,17 @@ Plan of Dec 2014:
  * Move existing Call Management Hershey Wedding code into project (1 hour)
  * Customize Camera Plugin for Android, update Call Management to use this Camera plugin (8 hours)
  * Rewrite Database related code to use SQLite plugin (12 hours, cooperate with Sugar)
- * Customize Device and Network Information plugin for any missing function (4 hours)
- * Add Crash Reporting (2 hours)
- * Test and debug on iOS and Android (8 hours)
 
 By the end of Dec 2014, we should have fully functional Cordova version of Call Management Hershey Wedding for iOS and Android, and ready to be tested by end users.
 
 Plan of first half of Jan 2015:
 
+ * Customize Device and Network Information plugin for any missing function (4 hours)
+ * Add Crash Reporting (2 hours)
+ * Test and debug on iOS and Android (8 hours)
  * Customize Geolocation, use Baidu's SDK for Android (4 hours)
  * Create AES encryption plugin and encrypt upload transmission (4 hours)
  * Create remote logging plugin (4 hours)
- * Setup develop environment for Windows Phone 8 (4 hours)
- * Create or customize all above plugins for Windows Phone 8 (15 hours)
- * Test and debug on Windows Phone (10 hours)
- * Create download site for Window Phone (5 hours)
  
 By the mid of Jan 2015, we should have all functions of our existing native apps but map.
 
@@ -85,9 +81,11 @@ In the mean time (from early Dec 2014), I should also cooperate with Zohaib for 
  * Define requirements, list items to design (2 hours)
  * Communicate with Zohaib for the design and static HTML page implement process (8 hours)
  * Integrate Zohaib's static HTML page with logic code (8 hours, cooperate with Sugar)
- * Test and debug on all three platforms (8 hours)
- * Automatic update of HTML5 code on all three platforms (5 hours)
+ * Test and debug on iOS and Android (6 hours)
+ * Automatic update of HTML5 code iOS and Android (4 hours)
 
-This project takes 120 hours of my time in total.
+The iOS and Android part of the project takes 83 hours of my time in total.
+
+The Windows Phone 8 part is pending for now, it should be done as a seperated project later.
 
 By the end of Jan 2015, we should have all the new UI integrated. And we should have enough experience and code base to do business project.
