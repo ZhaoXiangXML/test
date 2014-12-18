@@ -94,7 +94,7 @@ Functions screens should be responsive. System default font on each platform sho
 
 Primary Menu is the first screen after app launch. There should be icons for all secondary modules and title of the app (in text). Better to show the Field Power logo too.
 
-![Primary Menu](/PrimaryMenu.png)
+![Primary Menu](https://raw.githubusercontent.com/ZhaoXiangXML/test/PrimaryMenu.png)
 
 There should a way to show a number or a "check mark" for each module.
 
@@ -104,7 +104,7 @@ The number of sub-module icons is variable from 4 to 12.
 
 Secondary Menu should show icons for all tertiary modules and title of this secondary module. A subtitle should be displayed for a store name and a date. There should also be a "save" button.
 
-![Secondary Menu](/SecondaryMenu.png)
+![Secondary Menu](https://raw.githubusercontent.com/ZhaoXiangXML/test/SecondaryMenu.png)
 
 There should a way to show a number or a "check mark" for each module.
 
@@ -116,7 +116,7 @@ User should be able to view his plan of today and 7 days after today.
 
 Plan of each date should be on one page, user should be able to change date.
 
-![Plan](/Plan.png)
+![Plan](https://raw.githubusercontent.com/ZhaoXiangXML/test/Plan.png)
 
 There should be an "edit" icon. By pressing edit, a screen for edit plan should show with a list of stores. Each store should come with a combo box or similar so user can select store for the given date.
 
@@ -124,7 +124,7 @@ There should be an "edit" icon. By pressing edit, a screen for edit plan should 
 
 List of all stores the user should inspect. The store names are grouped and ordered in alphabetical order. The title of each group is the first letter of store name.
 
-![Store List](/StoreList.png)
+![Store List](https://raw.githubusercontent.com/ZhaoXiangXML/test/StoreList.png)
 
 On large screens store address should also be displayed in the list.
 
@@ -204,7 +204,7 @@ User should be able to edit each product's price, shelf and offtake.
 
 Products are grouped by product category, each category contains one or more products. Each page displayes products within the same category. User should be able to change product category.
 
-![Product](/Product.png)
+![Product](https://raw.githubusercontent.com/ZhaoXiangXML/test/Product.png)
 
 The style of an input field should be changed if the number in it was changed.
 
@@ -214,13 +214,13 @@ There should be a save button on this page.
 
 Similar to Product, but each line should only contain a short title and one input field.
 
-![Shelf](/Shelf.png)
+![Shelf](https://raw.githubusercontent.com/ZhaoXiangXML/test/Shelf.png)
 
 #### 3.2.12 Promotions
 
 Similar to Shelf, but each line should only contain a short title and an on/off switch.
 
-![Promotions](/Promotion.png)
+![Promotions](https://raw.githubusercontent.com/ZhaoXiangXML/test/Promotion.png)
 
 #### 3.2.13 Questionnaire
 
