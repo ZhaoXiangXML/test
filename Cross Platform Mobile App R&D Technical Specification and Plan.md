@@ -86,6 +86,6 @@ In the mean time (from early Dec 2014), I should also cooperate with Zohaib for 
 
 The iOS and Android part of the project takes 83 hours of my time in total.
 
-The Windows Phone 8 part is pending for now, it should be done as a seperated project later.
+The Windows Phone 8 part is pending for now, it should be done as a separated project later.
 
 By the end of Jan 2015, we should have all the new UI integrated. And we should have enough experience and code base to do business project.
